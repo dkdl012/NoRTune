@@ -1,7 +1,7 @@
 ![python version](https://img.shields.io/badge/python-3.10-blue)
   
-# Spark-Tuner
-We introduce Spark-Tuner, a resource-efficient and reliable configuration tuning framework for Spark that leverages subspace-based Bayesian optimization and a noise-robust acquisition function. Spark-Tuner optimizes Spark configuration by effectively reducing high-dimensional parameters without requiring time-consuming and resource-intensive determination of the target dimensionality. Moreover, it is able to select an optimal configuration with reliable performance by reducing the impact of noise.
+# NoRTune
+We introduce NoRTune, a resource-efficient and reliable configuration tuning framework for Spark that leverages subspace-based Bayesian optimization and a noise-robust acquisition function. Spark-Tuner optimizes Spark configuration by effectively reducing high-dimensional parameters without requiring time-consuming and resource-intensive determination of the target dimensionality. Moreover, it is able to select an optimal configuration with reliable performance by reducing the impact of noise.
 
 * The base of this code is [here](https://github.com/LeoIV/Bounce).
 
