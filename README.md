@@ -1,7 +1,9 @@
 ![python version](https://img.shields.io/badge/python-3.10-blue)
   
 # NoRTune
-We introduce NoRTune, a resource-efficient and reliable configuration tuning framework for Spark that leverages subspace-based Bayesian optimization and a noise-robust acquisition function. Spark-Tuner optimizes Spark configuration by effectively reducing high-dimensional parameters without requiring time-consuming and resource-intensive determination of the target dimensionality. Moreover, it is able to select an optimal configuration with reliable performance by reducing the impact of noise.
+We introduce NoRTune, a resource-efficient and reliable configuration tuning framework for Spark that leverages subspace-based Bayesian optimization and a noise-robust acquisition function. Spark-Tuner optimizes Spark configuration by effectively reducing high-dimensional parameters without requiring time-consuming and resource-intensive determination of the target dimensionality. Moreover, it is able to select an optimal configuration with reliable performance by reducing the impact of noise.  
+
+NoRTune is published on Engineering Applications of Artificial Intelligence [📖](https://doi.org/10.1016/j.engappai.2025.111332).
 
 * The base of this code is [here](https://github.com/LeoIV/Bounce).
 
